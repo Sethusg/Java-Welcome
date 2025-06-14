@@ -1,2 +1,2 @@
 # Java-Welcome
-Welcome to Java
+Welcome to All Training Java
