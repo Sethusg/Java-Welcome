@@ -1,2 +1,2 @@
 # Java-Welcome
-Java Welcome
+Welcome to Java
